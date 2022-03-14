@@ -5,5 +5,8 @@ In this challenge I had to analyze all the rideshare data from January to early 
 
 ## Results
 
+### Total Fare by City
+![image](https://user-images.githubusercontent.com/98666231/158104406-79c8d311-4116-4961-b5bb-1a5d84d23b0d.png)
+
 
 ## Summary 
